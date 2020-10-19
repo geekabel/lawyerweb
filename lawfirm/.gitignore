@@ -1,0 +1,2 @@
+# ignore all .sass-cache files
+*.sass-cache
